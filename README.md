@@ -5,6 +5,6 @@ To view descriptions and materials for past course offerings at MDACC, click the
 
 | Recent Workshops |
 | --- |
-| <ul><li>2015-08-14: Intro to HPC for Life Sciences</li><li>2015-11-02: Intro to Linux and HPC for Life Sciences</li><li>2015-12-15: Intro to Linux and HPC for Life Sciences</ul> |
+| <ul><li>2015-09-10: Intro to HPC for Life Sciences</li><li>2015-09-28: Intro to HPC for Life Sciences</li></ul> |
 
 
