@@ -5,6 +5,6 @@ To view descriptions and materials for past course offerings at MDACC, click the
 
 | Recent Workshops |
 | --- |
-| <ul><li>2015-09-10: Intro to HPC for Life Sciences</li><li>2015-09-28: Intro to HPC for Life Sciences</li></ul> |
+| <ul><li>[2015-09-10: Intro to HPC for Life Sciences](https://github.com/TACC-LSC/UTHSCH/tree/2015-09-10)</li><li>[2015-09-28: Intro to HPC for Life Sciences](https://github.com/TACC-LSC/UTHSCH/tree/2015-09-28)</li></ul> |
 
 
