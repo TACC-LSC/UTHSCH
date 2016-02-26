@@ -1,4 +1,4 @@
-# Intro to High Performance Computing for Life Sciences
+# Intro to Linux and High Performance Computing for Life Sciences
 
 * **Course Location:** UT Health Science Center – Houston, Basic Sciences Research Building, Room S3.8112 (GSBS Computer Lab)
 * **Date and Time:** Thursday, September 10th, 2015, 1:00pm - 4:00pm
