@@ -1,4 +1,4 @@
-# Intro to High Performance Computing for Life Sciences
+# Intro to Linux and High Performance Computing for Life Sciences
 
 * **Course Location:** UT Health Science Center – Houston, School of Public Health, Room E705
 * **Date and Time:** Wednesday, September 28th, 2015, 1:00pm - 4:30pm
