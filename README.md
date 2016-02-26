@@ -1,6 +1,6 @@
 # UT Health Science Center - Houston 
 
-To view descriptions and materials for past course offerings at MDACC, click the "Branch" tab above and navigate by date.
+To view descriptions and materials for past course offerings at MDACC, click the links below.
 
 
 | Recent Workshops |
